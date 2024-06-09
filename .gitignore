@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TicketBookingCore/bin/Debug/net8.0
+/TicketBookingCore/obj
+/TicketBookingCore.Tests/bin/Debug/net8.0
+/TicketBookingCore.Tests/obj
+/.vs
